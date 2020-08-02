@@ -2,7 +2,7 @@
 
 ## Scenario
 
-![network-infrastructure-diagram](https://raw.githubusercontent.com/t-ho/dmz-netfilter/master/assets/diagram.png)
+[![network-infrastructure-diagram](https://raw.githubusercontent.com/t-ho/dmz-netfilter/master/assets/diagram.png)](https://github.com/t-ho/dmz-netfilter)
 
 The network infrastructure has the following details:
 
